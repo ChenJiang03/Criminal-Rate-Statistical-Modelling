@@ -1,0 +1,10 @@
+# Python libraries required for this project
+
+# Analysis
+sklearn
+numpy
+pandas
+
+# Visualization and interaction
+matplotlib
+tkinter

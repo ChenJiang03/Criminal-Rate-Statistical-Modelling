@@ -1,0 +1,50 @@
+﻿"Employment and unemployment rate, monthly, unadjusted for seasonality 1"
+"Frequency: Monthly"
+"Table: 14-10-0374-01"
+"Release date: 2021-12-03"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography 2","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Sex","Both sexes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Age group","15 years and over",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Labour force characteristics","Population centre and rural areas","March 2019","April 2019","May 2019","June 2019","July 2019","August 2019","September 2019","October 2019","November 2019","December 2019","January 2020","February 2020","March 2020","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021","July 2021","August 2021","September 2021"
+,,"Persons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Employment 3","Total, all population centres and rural areas  (x 1,000)","18,586.8","18,781.6","19,175.0","19,341.9","19,223.2","19,260.4","19,178.0","19,165.7","19,028.3","19,021.5","18,769.4","18,849.9","17,795.9","15,968.8","16,603.4","17,742.3","18,038.4","18,218.3","18,475.7","18,556.3","18,539.9","18,432.4","17,942.3","18,251.6","18,500.8","18,427.1","18,715.8","19,159.5","19,143.9","19,180.9","19,215.2"
+,"Census metropolitan area and census agglomeration 4  (x 1,000)","16,051.8","16,255.8","16,531.9","16,650.2","16,536.0","16,582.6","16,524.0","16,544.1","16,467.4","16,459.3","16,276.3","16,354.9","15,398.9","13,851.6","14,326.3","15,319.0","15,598.3","15,775.8","16,012.3","16,113.0","16,118.4","16,027.9","15,609.8","15,885.5","16,131.7","15,986.5","16,203.9","16,630.1","16,646.2","16,700.0","16,719.0"
+,"Core 5  (x 1,000)","14,306.0","14,482.0","14,635.3","14,757.8","14,657.7","14,709.6","14,669.8","14,696.9","14,675.1","14,670.9","14,523.1","14,550.8","13,709.7","12,309.2","12,699.6","13,557.1","13,828.1","13,965.4","14,202.4","14,240.4","14,287.4","14,177.2","13,829.0","14,078.1","14,310.5","14,140.2","14,311.8","14,702.4","14,738.7","14,765.4","14,808.7"
+,"Fringe 6  (x 1,000)","579.3","583.2","633.5","623.3","617.6","603.3","608.2","608.9","589.4","588.4","591.7","611.2","572.1","503.9","523.5","554.6","550.6","579.4","586.5","619.4","586.5","582.5","551.9","576.4","579.4","572.9","583.7","593.4","608.6","617.0","603.6"
+,"Rural area 7  (x 1,000)","1,166.5","1,190.6","1,263.1","1,269.2","1,260.7","1,269.7","1,246.0","1,238.3","1,202.9","1,200.0","1,161.5","1,192.9","1,117.1","1,038.5","1,103.2","1,207.4","1,219.6","1,231.0","1,223.3","1,253.2","1,244.5","1,268.2","1,228.9","1,231.0","1,241.8","1,273.5","1,308.5","1,334.4","1,298.9","1,317.6","1,306.7"
+,"Non-census metropolitan area and non-census agglomeration 8  (x 1,000)","2,534.9","2,525.8","2,643.1","2,691.7","2,687.2","2,677.8","2,654.0","2,621.6","2,560.9","2,562.2","2,493.1","2,495.0","2,396.9","2,117.2","2,277.0","2,423.2","2,440.1","2,442.5","2,463.4","2,443.3","2,421.6","2,404.5","2,332.5","2,366.2","2,369.2","2,440.6","2,511.8","2,529.3","2,497.7","2,480.9","2,496.2"
+,"Small population centre 9  (x 1,000)","877.1","870.3","876.8","892.9","906.2","903.1","889.9","868.7","847.9","837.0","839.7","846.7","837.7","699.5","735.0","813.6","835.4","813.3","840.6","832.6","821.0","824.8","788.8","822.9","810.0","820.3","841.4","824.5","848.5","817.1","830.6"
+,"Rural area 7  (x 1,000)","1,657.8","1,655.5","1,766.3","1,798.8","1,781.0","1,774.7","1,764.1","1,752.8","1,713.0","1,725.3","1,653.3","1,648.3","1,559.3","1,417.6","1,542.0","1,609.6","1,604.7","1,629.2","1,622.9","1,610.7","1,600.6","1,579.7","1,543.7","1,543.3","1,559.2","1,620.3","1,670.5","1,704.8","1,649.3","1,663.8","1,665.6"
+,,"Percentage",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Unemployment rate 10","Total, all population centres and rural areas","6.3","6.0","5.5","5.3","6.0","6.4","5.1","5.1","5.5","5.2","5.9","5.9","8.5","13.6","13.8","11.9","11.3","11.1","8.5","8.2","8.0","8.0","9.8","8.6","8.1","8.4","8.4","7.4","7.7","7.9","6.3"
+,"Census metropolitan area and census agglomeration 4","6.1","5.7","5.5","5.4","6.1","6.4","5.1","5.0","5.4","5.1","5.8","5.8","8.4","13.4","14.1","12.3","11.7","11.6","8.7","8.3","8.1","8.1","9.9","8.6","8.1","8.4","8.6","7.6","7.8","8.0","6.5"
+,"Core 5","6.1","5.8","5.6","5.5","6.2","6.5","5.3","5.1","5.6","5.2","5.8","5.8","8.4","13.5","14.4","12.6","12.0","11.9","9.0","8.6","8.4","8.3","10.1","8.9","8.3","8.6","8.9","7.9","8.1","8.2","6.7"
+,"Fringe 6","5.2","4.8","4.9","4.2","5.5","6.3","4.2","5.3","4.6","4.1","5.7","5.5","7.7","13.1","10.7","9.4","9.7","7.7","5.9","6.2","6.4","6.4","8.9","7.5","7.5","8.5","7.6","6.1","7.3","6.8","5.5"
+,"Rural area 7","5.9","5.6","4.8","4.1","4.6","6.0","3.9","3.9","3.9","4.4","5.7","5.4","8.9","12.7","11.9","10.0","8.8","9.2","6.8","6.9","6.2","6.7","8.3","6.2","5.8","5.9","5.8","4.5","4.7","6.1","4.5"
+,"Non-census metropolitan area and non-census agglomeration 8","7.4","7.7","5.8","4.8","5.7","6.3","4.7","5.2","6.1","6.0","6.9","6.8","8.8","14.6","12.4","9.5","8.7","8.3","7.0","7.3","7.3","7.8","9.1","8.5","8.3","8.3","6.8","5.8","7.0","7.3","5.5"
+,"Small population centre 9","6.1","6.4","5.7","5.0","6.1","6.5","4.9","5.4","5.9","5.8","6.6","6.5","8.1","15.6","14.1","11.2","9.7","9.6","7.2","7.2","7.1","7.8","8.3","7.2","7.4","7.0","6.2","5.7","6.7","7.0","5.0"
+,"Rural area 7","8.0","8.4","5.9","4.7","5.5","6.2","4.6","5.2","6.3","6.1","7.0","7.0","9.2","14.2","11.6","8.6","8.2","7.6","6.8","7.3","7.5","7.8","9.5","9.2","8.7","9.0","7.0","5.9","7.1","7.5","5.7"
+
+
+
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+2,"Excluding the territories."
+3,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+10,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+4,"Are large population centres (known as cores) together with adjacent fringe and rural areas that have a high degree of social and economic integration with the cores. A CMA (census metropolitan area) has a population of at least 100,000 and a CA (census agglomeration) has a population of at least 10,000 based on the previous census."
+5,"The core is the population centre with the highest population, around which a census metropolitan area (CMA) or census agglomeration (CA) is delineated. The core must have a population of at least 50,000 persons in the case of a CMA, or at least 10,000 persons in the case of a CA based on the previous census. This category also includes the secondary core, which is comprised of a population centre within a CMA that has at least 10,000 persons and was the core of a CA that has been merged with an adjacent CMA."
+6,"The fringe includes all population centres within a census metropolitan area (CMA) or census agglomeration (CA) that have less than 10,000 persons, based on the previous census population counts, and are not contiguous with the core or secondary core."
+7,"Rural areas are sparsely populated lands which include small towns, villages and other populated places with less than 1,000 population according to the previous census, as well as remote areas and agricultural lands. Rural areas can be found inside or outside of census metropolitan areas (CMA) or census agglomerations (CA)."
+8,"Non-census metropolitan area or census agglomeration (Non-CMA/CA) is all areas outside of the metropolitan/agglomeration area."
+9,"A small population centre is an area outside a census metropolitan area (CMA) or census agglomeration (CA). Small population centres have populations between 1,000 to 10,000 based on the previous census population counts."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0374-01  Employment and unemployment rate, monthly, unadjusted for seasonality"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037401
